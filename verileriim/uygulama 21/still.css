@@ -1,0 +1,13 @@
+.gecisli1{
+    width: 20%; background: linear-gradient(to right, skyblue , #23538A);}
+    .gecisli2{
+    width: 30%; background: linear-gradient(to left, red,black);}
+    .gecisli3{
+    width: 40%;
+    background: linear-gradient(to right top, #0cbaba, #380036, darksalmon); }
+
+    div{ height: 100px; color:white; font-size:20px; border-radius: 10px; }
+
+    div:hover{
+        width: 1000px; cursor:hand;  
+       transition-property: width; transition-duration:0.5s; transition-delay:0.1s;}
